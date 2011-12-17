@@ -1,4 +1,4 @@
-class FindPrimes < Array
+class FindPrimes
 
   attr_accessor :xp
 
