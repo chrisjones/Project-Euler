@@ -86,7 +86,7 @@ class FindPrimes
     @xp += ep 
     @xp += tp
 
-    return @xp
+    return @xp.sort!
   end
 
 end
